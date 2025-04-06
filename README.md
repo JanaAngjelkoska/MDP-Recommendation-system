@@ -9,3 +9,4 @@ The GUI displays a graph used to simulate a 4-state system  with transition prob
 #### 3. Reward function
 #### 4. Markov transition model
 #### 5. Exploration vs. Exploatation
+![image](https://github.com/user-attachments/assets/0661b305-b43c-4195-8077-1b42c5b9f5ad)
